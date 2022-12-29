@@ -2,7 +2,7 @@
 
 # AIM:
 
-To develop a simple webserver to serve html programming pages
+To develop a simple webserver to display about top five web application development frameworks.
 
 ## DESIGN STEPS:
 
